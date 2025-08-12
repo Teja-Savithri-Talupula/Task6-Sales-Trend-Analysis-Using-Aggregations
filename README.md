@@ -57,3 +57,8 @@ Applying SUM() and COUNT(DISTINCT) for key metrics.
 Filtering and sorting aggregated data efficiently.
 
 
+📂 Files in Repository
+
+task6-STA-Aggregations.sql → Contains all SQL queries executed for this task. 
+output_screenshots/ → Contains screenshots of query results. 
+README.md → This documentation.
